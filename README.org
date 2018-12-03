@@ -1,6 +1,0 @@
-* title
-
-Auth by zilongshanren
-https://github.com/summer-wu/.emacs.d.zilongshanren.git
-
-** subtitle
